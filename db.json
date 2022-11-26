@@ -1,12 +1,6 @@
 {
   "tasks": [
     {
-      "id": 64759,
-      "text": "Hẹn hò với Ngọc ",
-      "day": "1/4/2019",
-      "reminder": true
-    },
-    {
       "text": "Học VueJS",
       "day": "15/10/2020",
       "reminder": true,
